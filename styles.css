@@ -1,7 +1,8 @@
 #yellow{
 	background:yellow;
-	border-width:1px;
+	border:1px;
 	border-color:green;	
+	border-top-style:solid;
 }
 
 #red{
